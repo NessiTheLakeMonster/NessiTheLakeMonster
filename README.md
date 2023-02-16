@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 📚 I’m currently studying Web Development at CIFP Virgen de Gracia (Puertollano, Spain)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessiTheLakeMonster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessiTheLakeMonster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nessithelakemonster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NessiTheLakeMonster&hide=papyrus&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
