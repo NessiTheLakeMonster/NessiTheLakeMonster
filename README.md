@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
 ## Stats 📈 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nessithelakemonster&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nessithelakemonster&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=nessithelakemonster&hide=papyrus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
