@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there👋, I'm Inés</h1>
-- 📚 I’m currently studying Web Development at CIFP Virgen de Gracia (Puertollano, Spain)
-- 📫 How to reach me **imbarreral020301@gmail.com**
+- 📚 I’m currently studying Web Development at CIFP Virgen de Gracia (Puertollano, Spain) <br>
+- 📫 How to reach me imbarreral020301@gmail.com
 
 
 <p align="left">
